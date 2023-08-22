@@ -3,7 +3,7 @@ table{
 	width:100%;
 	border-radius:10px;
 }
-th{
+thead{
 	text-align:left;
 	border-radius:10px;
 }
